@@ -1,0 +1,17 @@
+footer {
+    background-color: #353A3F;
+    color: whitesmoke;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+navbar {
+    height: min-content;
+}
+
+div {
+    max-width: 100%;
+}
